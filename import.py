@@ -6,8 +6,8 @@ from bs4 import BeautifulSoup
 import csv
 import re
 
-client_id = '*********' #redacted
-client_secret = '****************' #redacted
+client_id = 'aCOsBF1HMnSKDg'
+client_secret = 'tpvzRJM44mwXXy2UsZoVSD54ThM'
 
 reddit = oauth.oauth(client_id, client_secret)
 idx = 0
